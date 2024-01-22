@@ -1,5 +1,4 @@
 ## :construction: HTML Basico em construção :construction:
-<<<<<<< HEAD
 [!NOTE] 
 <p> tag para quebrar texto.
 
