@@ -1,6 +1,6 @@
 ## :construction: HTML Basico em construção :construction:
 
-- Explorando a index principal do projeto. "<p> abacate</p>"
+- Explorando a index principal do projeto.
 
 ## 📚 Anotações do curso 📚
 - Utilize "!" no vscode para gerar um arquivo base html.
