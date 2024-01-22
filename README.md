@@ -3,6 +3,6 @@
 </h4>
 <h4 align="center"> 
     📚 Anotações do curso 📚
-    //Utilize "!" no vscode para gerar um arquivo base html
-    //Para gerar um texto aleatorio use a palavra chave lorem
+    //Utilize "!" no vscode para gerar um arquivo base html.<br>
+    //Para gerar um texto aleatorio use a palavra chave lorem. <br>
 </h4>
