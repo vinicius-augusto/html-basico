@@ -1,7 +1,6 @@
 ## :construction: HTML Basico em construção :construction:
 
-- tag para quebrar texto. [<br>]
-- tag para quebrar linha. [<p>] 
+- Explorando a index principal do projeto. "<p> abacate</p>"
 
 ## 📚 Anotações do curso 📚
 - Utilize "!" no vscode para gerar um arquivo base html.
